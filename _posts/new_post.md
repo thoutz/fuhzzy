@@ -1,0 +1,3 @@
+# New Post
+
+Write stuff.
